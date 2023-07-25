@@ -3,4 +3,10 @@ HAI
 THIS SIMPLE GPT
 
 ### README PLEASE
+---
+>>>>API KEY GPT
+
+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
+
+---
 
