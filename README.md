@@ -6,7 +6,7 @@ THIS SIMPLE GPT
 ---
 >>>>API KEY GPT
 
-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
+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
 
 ---
 
